@@ -1,0 +1,16 @@
+{
+    "name": "dialogflowbot",
+    
+	"version": "0.0.1",
+    
+	"private": true,
+    
+	"dependencies": {
+        
+		"apiai": "^4.0.3",
+        
+		"express": "*"
+    },
+	"script": {"start":"findmyphone.js"}
+
+}
