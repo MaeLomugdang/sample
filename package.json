@@ -11,6 +11,6 @@
         
 		"express": "*"
     },
-	"script": {"start":"findmyphone.js"}
+	"scripts": {"start":"findmyphone.js"}
 
 }
