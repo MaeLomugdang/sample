@@ -6,6 +6,6 @@
 								"express": "*"
 				},
 				"scripts": {
-								"start": "findmyphone.js"
+								"start": "demobot.js"
 				}
 }
